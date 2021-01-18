@@ -1,2 +1,2 @@
 # App-Profile-Recommendation-Guided-Project-1
-Using data analysis to recommend which type of app to create
+In this project I use data analysis to determine which type of app is the most profitable
