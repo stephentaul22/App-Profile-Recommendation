@@ -1,2 +1,3 @@
-# App-Profile-Recommendation-Guided-Project-1
-In this project I use data analysis to determine which type of app is the most profitable
+# App-Profile-Recommendation
+
+This is a guided project, completed from the Data Analyst in Python Career Path on DataQuest.io.
